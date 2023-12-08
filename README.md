@@ -30,3 +30,4 @@
 ![ReinhardFabian-gcp-security](https://github.com/reinhardfabian/reinhardfabian.github.io/assets/114802814/03c55b45-3abc-483a-95a7-ca03cfa340b0)
 ![ReinhardFabian-gcp-fund](https://github.com/reinhardfabian/reinhardfabian.github.io/assets/114802814/46dbf46e-697e-4d50-b00a-a72a9c3afff4)
 ![ReinhardFabian-gcp-run](https://github.com/reinhardfabian/reinhardfabian.github.io/assets/114802814/1a6a2371-ef57-4e31-b8db-d64cc30d4ff1)
+![ReinhardFabian-gcp-design](https://github.com/reinhardfabian/reinhardfabian.github.io/assets/114802814/7d0a9371-4b2b-4507-b03c-9d9c218970b5)
