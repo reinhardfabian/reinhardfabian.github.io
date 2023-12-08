@@ -24,3 +24,4 @@
 ![certificate-fullstack](https://github.com/reinhardfabian/reinhardfabian.github.io/assets/114802814/0fdd63ee-02ed-453a-a076-825bcb10118a)
 ![certificate-graphql](https://github.com/reinhardfabian/reinhardfabian.github.io/assets/114802814/d71a97c7-6f24-494a-981b-bef4bdae3375)
 ![certificate-typescript](https://github.com/reinhardfabian/reinhardfabian.github.io/assets/114802814/042b0fdf-d88d-4936-b06b-c125948d1afe)
+![ReinhardFabian-logging](https://github.com/reinhardfabian/reinhardfabian.github.io/assets/114802814/f855251b-3fcd-4b02-98bd-ac40f299e72a)
